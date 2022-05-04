@@ -1,0 +1,11 @@
+@media(max-width: 420px){
+.appLayout{
+
+}
+}
+
+@media(min-width: 421px){
+    .appLayout{
+        width: 99vw;
+    }
+}

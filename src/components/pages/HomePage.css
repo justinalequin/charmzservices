@@ -1,0 +1,103 @@
+@media (max-width: 800px ){
+
+    .heroContainer{
+width: 95vw;
+    }
+
+    .heroText{
+        font-size: 4vh;
+        text-align: center;
+        font-weight: bold;
+
+    }
+    .appointmentButt{
+        width: 50vw;
+    
+    }
+
+    .certs{
+height: 4vh;
+    }
+
+    .loliPic{
+        height: 30vh;
+    }
+
+    .aboutContainer{
+
+    }
+
+    .aboutText{
+
+    }
+
+    .aboutTextContainer{
+        width: 80vw;
+        text-align: center;
+    }
+
+    .aboutImageContainer{
+
+    }
+
+    .aboutContainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    ul{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+list-style: none;
+font-weight: bold;
+    }
+}
+
+@media(min-width: 801px){
+
+    .heroContainer{
+        width: 99vw;
+            }
+    .heroText{
+          font-size: 5vh;
+    border-radius: 8px;
+    }
+    .appointmentButt{
+        width: 33vw;
+    }
+
+    ul{
+        display: flex;
+        justify-content: space-around
+    }
+
+    .certs{
+        height: 10vh;
+    }
+
+    .loliPic{
+        height: 40vh;
+    }
+  
+    .aboutContainer{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .aboutText{
+        font-size: 3vh;
+    }
+
+    .aboutTextContainer{
+        width: 40vw;
+    }
+
+    .aboutImageContainer{
+        width: 40vw;
+    }
+
+}

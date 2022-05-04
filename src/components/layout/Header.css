@@ -1,0 +1,43 @@
+@media (max-width: 1400px ){
+    .fullScreenNavOptions{
+        display: none;
+    }
+
+    .navBarContainer{
+        width: 99vw;
+        border-radius: 4px;
+        justify-content: center;
+    }
+
+
+
+    
+}
+
+.navBarContainer{
+    width: 99vw;
+    border-radius: 4px;
+    justify-content: center;
+}
+
+
+
+
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+}
+
+.navOptions li {
+    color: white;
+    font-size: 2vh;
+    text-decoration: underline;
+   
+}
+
+

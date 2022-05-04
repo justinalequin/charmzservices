@@ -1,0 +1,11 @@
+@media (max-width: 800px ){
+    .officiantPic{
+        width: 80vw;
+    }
+}
+
+@media (min-width: 801px ){
+    .officiantPic{
+        height: 40vh;
+    }
+}
